@@ -4,9 +4,9 @@
 
 6+ years of experience in developing web and microservices using Node.js, Python and Golang
 
-4+ years of experience in React, Angular and Vue.js
+5+ years of experience in React, Angular and Vue.js
 
-4 years of experience in several blockchain networks, DApp, Smart Contract development.
+5+ years of experience in several blockchain networks, DApp, Smart Contract development.
 
 Strong background in project management and customer relations.
 
